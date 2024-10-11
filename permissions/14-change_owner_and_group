@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp vicent staff +777
+chown vicent staff *
