@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod tr "AC" "Ze"
+tr "AC" "Ze"
