@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "According Zebras" tr "AC" "Ze"
+chmod tr 'Ac' 'Ze"
