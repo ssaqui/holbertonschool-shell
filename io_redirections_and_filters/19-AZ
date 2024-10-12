@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod tr "A, C" "Z, e"
+chmod tr "AC" "Ze"
