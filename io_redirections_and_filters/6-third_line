@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod tail n-3 iacta
+tail n-3 iacta
