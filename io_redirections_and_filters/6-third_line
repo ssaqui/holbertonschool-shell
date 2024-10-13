@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod head -n 3 iacta
+chmod head n -3 iacta
