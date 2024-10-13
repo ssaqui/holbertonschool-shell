@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod tr -d 'c' 'C'
+tr -d 'c' 'C'
