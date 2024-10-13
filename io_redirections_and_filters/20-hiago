@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod cut -d 'c' 'C'
+tr -d 'c' 'C'
