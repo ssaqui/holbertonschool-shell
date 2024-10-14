@@ -1,0 +1,2 @@
+#!/bin/bash
+cut ".js" -f1 io_redirections_and_filters
