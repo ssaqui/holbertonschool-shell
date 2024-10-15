@@ -1,2 +1,2 @@
 #!/bin/bash
-WC=PATH 
+wc -l > PATH
